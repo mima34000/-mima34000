@@ -23,7 +23,7 @@ Jag fokuserar på .NET, C# och molntjänster med Azure.
 
 - 📖 Studerar Backend Development på NBI Handelsakademin
 - ☁️ Lär mig Azure och molnarkitektur
-- 🔍 Söker LIA-praktik **oktober–december 2026** och **februari–juni 2027**
+- 🔍 Söker LIA-praktik **oktober–december 2026** och **februari–maj 2027**
 
 ## 📫 Kontakt
 
